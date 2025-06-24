@@ -2,6 +2,9 @@
 **AI Resume Analyzer** is an intelligent web application that evaluates how well a candidate’s resume matches a specific job description using advanced Natural Language Processing (NLP) techniques and Large Language Models (LLMs).
 
 ---
+### View:
+[Click here to view the full code on GitHub](https://nandinee-sharma-ai-resume-analyzer-main-b8dvzp.streamlit.app/)
+
 ## 🚀 Features
 
 - ✅ **ATS-style Similarity Score** using BERT embeddings
