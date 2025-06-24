@@ -3,7 +3,7 @@
 
 ---
 ### View:
-[Click here to view the full code on GitHub](https://nandinee-sharma-ai-resume-analyzer-main-b8dvzp.streamlit.app/)
+[Click here to view the UI of the app](https://nandinee-sharma-ai-resume-analyzer-main-b8dvzp.streamlit.app/)
 
 ## 🚀 Features
 
