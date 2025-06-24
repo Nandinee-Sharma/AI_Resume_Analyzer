@@ -43,7 +43,7 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Nandinee-Sharma/AI_Resume_Analyzer
-   cd resume-analyzer
+   cd AI_Resume_Analyzer
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
